@@ -1,0 +1,21 @@
+#preloader {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: #FFFFFF;
+    z-index: 800;
+    height: 100%;
+    width: 100%;
+}
+
+#loader {
+    position: fixed;
+    left: 50%;
+    bottom: 50%;
+    width: 90px;
+    height: 90px;
+    margin: -30px 0 0 -30px;
+    padding: 0;
+}

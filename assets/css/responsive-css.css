@@ -1,0 +1,63 @@
+@media only screen and (max-width:768px) {
+    #img1 {
+        padding-left: 50px;
+    }
+    #img1 img {
+        width: 94%;
+    }
+    #img2 {
+        padding-left: 60px;
+    }
+    #img-desc {
+        padding-left: 50px;
+    }
+    .container.gallery {
+        padding-left: 24px;
+        padding-right: 0px;
+    }
+    #iframe_vid {
+        padding-left: 70px;
+    }
+    #careerText {
+        padding-left: 30px;
+    }
+    #contact_section {
+        padding-left: 30px;
+    }
+    #careerImage {
+        padding-left: 30px;
+    }
+    .fa-flag {
+        padding: 10px !important;
+    }
+    .fa-tree {
+        padding: 11px 14px !important;
+    }
+    .fa-users {
+        padding: 14px !important;
+    }
+    .fa-leaf {
+        padding: 14px !important;
+    }
+    .fa-globe {
+        padding: 15px !important;
+    }
+    .fa-tint {
+        padding: 12px 22px !important;
+    }
+}
+
+@media only screen and (max-width:576px) {
+    .carousel-item .h2-responsive {
+        font-size: 1.1em;
+    }
+    .carousel-item h4 {
+        font-size: 1em;
+    }
+    .carousel-item button {
+        padding: 8px 5px !important;
+    }
+    .carousel-item {
+        height: 500px !important;
+    }
+}
